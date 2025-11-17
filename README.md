@@ -65,7 +65,7 @@ Well-versed in analyzing user requirements, formulating work effort estimates, a
 Including a couple of samples from previous work to serve as case study:
 
 - [Test Cases Template (Excel)](./templates/test-cases-template.xlsx)
-- [Bug Report Template](./templates/bug-report-template.xlsx)
+- [Bug Report Template (Excel)](./templates/bug-report-template.xlsx)
 - [Test Plan Template](./templates/test-plan-template.md)
 - [Test Summary Template](./templates/test-summary-template.md)
 

@@ -1,4 +1,4 @@
-# 🧠 QA PORTFOLIO
+# QA PORTFOLIO
 
 **Hello, I'm an IT professional with more than 15 years of experience both inside and outside of the IT industry, working in various fields as a software quality assurance analyst/tester, production/technical support engineer, IT auditing officer, and IT project manager.** 
 
@@ -80,5 +80,4 @@ Including a couple of samples from previous work to serve as case study:
 - Application Testing – Solutions
 
 ---
-(#)
 

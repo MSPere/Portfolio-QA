@@ -56,7 +56,10 @@ Well-versed in analyzing user requirements, formulating work effort estimates, a
 | Bug Tracking | Jira, BugHerd, BMC Remedy, ClickUp |
 | API Testing | Postman |
 | Databases | SQL, MySQL, PLSQL |
-| Other Skills | Test artifacts documentation, Requirements analysis, Conducting and coordinating the entire Sprint Review process, FAQ & training materials documentation|
+| Other Skills | Test artifacts documentation, 
+Requirements analysis, 
+Conducting and coordinating the entire Sprint Review process, 
+FAQ & training materials documentation|
 
 ---
 

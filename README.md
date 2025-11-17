@@ -51,13 +51,12 @@ Well-versed in analyzing user requirements, formulating work effort estimates, a
 
 
 | Category | Tools / Techniques |
-|------------------------------|
+|---------------|---------------|
 | Test Management | Jira, Zephyr, Confluence |
 | Bug Tracking | Jira, BugHerd, BMC Remedy, ClickUp |
 | API Testing | Postman |
 | Databases | SQL, MySQL, PL/SQL |
 | Other Skills | Test artifacts documentation, Requirements analysis, Conducting and coordinating the entire Sprint Review process, FAQ & training materials documentation|
-
 
 ---
 

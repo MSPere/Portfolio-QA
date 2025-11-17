@@ -55,7 +55,7 @@ Well-versed in analyzing user requirements, formulating work effort estimates, a
 | Test Management | Jira, Zephyr, Confluence |
 | Bug Tracking | Jira, BugHerd, BMC Remedy, ClickUp |
 | API Testing | Postman |
-| Databases | SQL, MySQL, PL/SQL |
+| Databases | SQL, MySQL, PLSQL |
 | Other Skills | Test artifacts documentation, Requirements analysis, Conducting and coordinating the entire Sprint Review process, FAQ & training materials documentation|
 
 
@@ -63,8 +63,6 @@ Well-versed in analyzing user requirements, formulating work effort estimates, a
 |-----------|-------------------|
 | Test Management | Jira, Zephyr, Confluence |
 | Bug Tracking | Jira, BugHerd, BMC Remedy, ClickUp |
-| Test Types | Functional, Regression, Smoke, Exploratory, UAT,  |
-| SDLC | Agile, Waterfall, Scrum |
 | API Testing | Postman |
 | Databases | SQL, MySQL |
 | Other Skills | Agile/Scrum, Test Artifacts Documentation, Requirements Analysis |

@@ -3,6 +3,7 @@
 **Hello, I'm an IT professional with more than 15 years of experience both inside and outside of the IT industry, working in various fields as a software quality assurance analyst/tester, production/technical support engineer, IT auditing officer, and IT project manager.** 
 
 Experienced in both waterfall and Agile methodologies for a project pipeline and portfolio management banking software (customized in Oracle.)
+
 Well-versed in analyzing user requirements, formulating work effort estimates, authoring of test plans and test cases, up to encompassing the whole SQA (software quality assurance) process.
 
 ---
